@@ -1,0 +1,6 @@
+ko_en/
+train_v1.1b/
+.ipynb_checkpoints
+test.ipynb
+nohup.out
+ko_to_en
